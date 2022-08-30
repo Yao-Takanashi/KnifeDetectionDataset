@@ -22,8 +22,9 @@ The statistics are shown in the following table:
  
 Download the dataset：
 
-https://pan.baidu.com/s/12jB6K5F8ZOmzuIuEkPwwtA?pwd=bq8j (**Password:** bq8j)
+**Baidu Netdisk:** https://pan.baidu.com/s/12jB6K5F8ZOmzuIuEkPwwtA?pwd=bq8j (*Password:* bq8j)
 
+**Google Drive:** Coming soon.
 
 
 
