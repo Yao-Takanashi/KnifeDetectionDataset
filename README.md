@@ -1,4 +1,30 @@
-# KnifeDetectionDataset
-  The automatic detection of knives provides an important guarantee for public security. However, few public datasets are available for knife detection. In addition, existing datasets fail to reflect a knife in the real world as certain datasets were collected in indoor scenes with simple and single backgrounds, and certain datasets establish objects in a central location with a large scale, which cannot well train and test the localization ability of algorithms. More importantly, many datasets only take into account knives held in hands. We consider a knife dangerous even if it is secured on other parts of a person or separated from the person.<br><br>
-We established a diverse knife dataset (DKD) for detection. The DKD has a more complex background and is more challenging. Knives in the DKD have various shapes, textures, poses, etc. In addition, to better demonstrate the detection performance of different methods, we divide the test set into three subsets, i.e., easy, normal and hard. The hard subset focuses on the detection of multiple objects and small-scale objects. Furthermore, the items in the hard subset may have serious motion blur.<br><br>
-The dataset can be downloaded: https://pan.baidu.com/s/12jB6K5F8ZOmzuIuEkPwwtA?pwd=bq8j || password:bq8j
+# Knife Detection Dataset
+
+We established a diverse knife dataset (DKD) for detection, with samples taken from movies, Youtube videos, and personal cameras. 
+
+The statistics are shown in the following table:
+  
+<table align="center">
+   <tr>
+      <th rowspan="2"> </th> <th rowspan="2">Training</th><th colspan="3">Test</th>
+   </tr>  
+   <tr>
+      <th>Easy</th><th>Normal</th><th>Hard</th>
+   </tr>
+
+   <tr align="center">
+      <td>  Size </td><td test-align:center>3040</td><td>250</td><td>250</td><td>250</td>
+   </tr>
+   <tr align="center">
+      <td>Total size</td><td colspan="4"> 3790 </td>
+   </tr>
+</table>
+ 
+Download the dataset：
+
+https://pan.baidu.com/s/12jB6K5F8ZOmzuIuEkPwwtA?pwd=bq8j (**Password:** bq8j)
+
+
+
+
+  
